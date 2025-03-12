@@ -1,0 +1,9 @@
+WIDTH = 1000
+HEIGHT = 600
+FPS = 60
+WIN_SCORE = 5
+
+# Colors
+BLACK = (0, 0, 0)
+BLUE = (0, 0, 255)
+RED = (255, 0, 0)
