@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+pong_dqn_model.pth
+dqn_model.pth
